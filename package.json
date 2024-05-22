@@ -151,7 +151,7 @@
     "fast-plist": "0.1.2",
     "file-loader": "^5.1.0",
     "glob": "^5.0.13",
-    "gulp": "^4.0.0",
+    "gulp": "^5.0.0",
     "gulp-atom-electron": "^1.33.0",
     "gulp-azure-storage": "^0.12.1",
     "gulp-bom": "^3.0.0",
